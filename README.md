@@ -6,3 +6,4 @@ A collection of Java coding practice problems designed to improve problem-solvin
 
 - [x] Problem 01 – Sum of Two Numbers
 - [x] Problem 02 – Swap Two Numbers
+- [x] Problem 03 – Decimal to Binary Number
