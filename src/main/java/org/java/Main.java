@@ -1,7 +1,11 @@
 package org.java;
 
+import org.java.problems.Problem01;
+
 public class Main {
     static void main() {
-       System.out.println("Hello World");
+
+      int sum =   Problem01.addTwoNumber(10, 20);
+      System.out.println("Sum = "+ sum);
     }
 }
