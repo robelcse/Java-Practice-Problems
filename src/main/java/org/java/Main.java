@@ -1,9 +1,8 @@
 package org.java;
 
-import org.java.problems.Problem01;
-import org.java.problems.Problem02;
-import org.java.problems.Problem03;
-import org.java.problems.Problem04;
+import org.java.problems.*;
+
+import java.util.List;
 
 public class Main {
     public static void main() {
@@ -11,7 +10,8 @@ public class Main {
         //solveProblem1();
         //solveProblem2();
         //solveProblem3();
-        solveProblem4();
+        //solveProblem4();
+        solveProblem5();
 
     }
 
@@ -41,6 +41,13 @@ public class Main {
         int number = 5;
         int findFactorialOfNumber = Problem04.findFactorialOfNumber(number);
         System.out.println(findFactorialOfNumber);
+    }
+
+    public static void solveProblem5() {
+
+        int number = 10;
+        List<Integer> fibonacciNumberSeries = Problem05.fibonacciNumberSeries(number);
+        System.out.println(fibonacciNumberSeries);
     }
 
 

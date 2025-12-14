@@ -8,3 +8,4 @@ A collection of Java coding practice problems designed to improve problem-solvin
 - [x] Problem 02 – Swap Two Numbers
 - [x] Problem 03 – Decimal to Binary Number
 - [x] Problem 04 – Find Factorial Of Number
+- [x] Problem 05 – Find Fibonacci Number Series
